@@ -5,7 +5,7 @@ const hello = async (event) => {
     statusCode: 200,
     body: JSON.stringify(
       {
-        message: "This is a Node HTTP API Project!",
+        message: "This is a Two-Tier Serverless Application!",
       },
       null,
       2
